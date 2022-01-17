@@ -294,7 +294,7 @@ files:
 - name: zookeeper/test.py
   visible: true
   learner_created: true
-feedback_link: https://hyperskill.org/projects/98/stages/541/implement#comment
+feedback_link: https://hyperskill.org/learn/step/8817#comment
 status: Solved
 feedback:
   message: Congratulations!
