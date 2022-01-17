@@ -1,0 +1,25 @@
+type: code
+custom_name: Hello!
+files:
+- name: main.py
+  visible: true
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/6808#comment
+status: Failed
+feedback:
+  message: |
+    Failed test #1 of 5. Wrong answer
+
+    This is a sample test from the problem statement!
+
+    Test input:
+    Sauron
+
+    Correct output:
+    Hello, Sauron
+
+
+    Your code output:
+    Hello,  Sauron
+  time: Wed, 12 Jan 2022 14:27:40 UTC
+record: -1

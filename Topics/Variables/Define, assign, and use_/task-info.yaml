@@ -1,0 +1,23 @@
+type: choice
+is_multiple_choice: false
+options:
+- text: dc_superhero == "Wonder Woman"
+- text: dc_superhero = Batman
+- text: marvel_superhero = "Iron Man"
+- text: marvel_superhero_() = "Black Widow"
+message_correct: Congratulations!
+message_incorrect: Incorrect solution
+files:
+- name: main.py
+  visible: true
+  text: |+
+    #  You can experiment here, it won’t be checked
+
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/13807#comment
+status: Failed
+feedback:
+  message: Answer choices will be shuffled next time.
+  time: Fri, 14 Jan 2022 09:15:54 UTC
+record: -1
+custom_name: Define, assign, and use!
